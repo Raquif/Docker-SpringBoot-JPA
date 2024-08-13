@@ -2,20 +2,20 @@
 Deploying Spring  Boot Application to the Docker with MySQL DataBase
 
 ## Topics Covered
-* Repo mainly covers deploying spring boot application to the docker with mysql as database.
-* This Example covers wriring simple & robust web services using HTTP Methods of GET & POST.
-* Also covers Many To Many Real time example with Annotation.
-* Proper way of handling exception & also code clean & maintainance
-* Clinet App for testing the rest services.
+* Repo mainly covers deploying spring boot application to the docker with MySQL as database.
+* This Example covers writing simple & robust web services using HTTP Methods of GET & POST.
+* Also covers Many To Many Real-time example with Annotation.
+* Proper way of handling exception & also code clean & maintenance
+* Client App is used to test the rest of the services.
 
 
 ## Running Spring rest locally
 
-You can then access Restfull here: https://github.com/Sudarshan-Gowda/Docker-Spring-Boot-JPA-MySQL
+You can then access Restfull here: https://github.com/Raquif Roshan/Docker-Spring-Boot-JPA-MySQL
 
 
-## In case you find a bug/suggested improvement for Spring Restfull Webservices
-Our issue tracker is available here: https://github.com/Sudarshan-Gowda/Docker-Spring-Boot-JPA-MySQL/issues
+## In case you find a bug/suggested improvement for Spring Restful Webservices
+Our issue tracker is available here: https://github.com/Raquif-Roshan/Docker-Spring-Boot-JPA-MySQL/issues
 
 
 ## Working with Rest in Eclipse
@@ -30,7 +30,7 @@ The following items should be installed in your system:
 
 1) Download this Project and do maven import.
 ```
-git clone https://github.com/Sudarshan-Gowda/Docker-Spring-Boot-JPA-MySQL.git
+git clone https://github.com/Raquif-Roshan/Docker-Spring-Boot-JPA-MySQL.git
 ```
 2) To Import the Praject Using STS or Eclipse.
 ```
@@ -42,7 +42,7 @@ File -> Import -> Maven -> Existing Maven project
 
 |Spring Boot Configuration | Class or Java property files  |
 |--------------------------|---|
-|The Docker File| [DockerFile](https://github.com/Sudarshan-Gowda/Docker-Spring-Boot-JPA-MySQL/blob/master/Dockerfile) |
+|The Docker File| [DockerFile](https://github.com/Raquif-Roshan/Docker-Spring-Boot-JPA-MySQL/blob/master/Dockerfile) |
 
 
 ## Steps to test the application:
@@ -82,5 +82,5 @@ Find the below exposed urls to test the application.
    
 # Contributing
 
-The [issue tracker](https://github.com/Sudarshan-Gowda/Spring-Mvc-Rest-API-And-Client-App/issues) is the preferred channel for bug reports, features requests and submitting pull requests.
+The [issue tracker](https://github.com/Raquif-Roshan/Spring-Mvc-Rest-API-And-Client-App/issues) is the preferred channel for bug reports, features requests and submitting pull requests.
 
